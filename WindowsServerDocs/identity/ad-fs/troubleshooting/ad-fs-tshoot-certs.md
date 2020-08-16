@@ -9,7 +9,7 @@ ms.topic: article
 ---
 
 # AD FS Troubleshooting - Certificates
-AD FS requires the following certificates in order to work correctly.  If any of these have not been setup or configured properly then issues can arise.
+Certificates play the most critical role in securing communications between federation servers, web application proxies, claims-aware applications, and Web clients. The requirements for certificates vary, depending on whether you are setting up a federation server or a proxy computer, as described in this section.
 
 ## Required certificates
 AD FS requires the following certificates:
